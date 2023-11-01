@@ -2,12 +2,12 @@
 
 ## 사이트맵
 
--   인트로 : <a href="https://oddodd.io/ZARA/" target="_blank">https://oddodd.io/ZARA/</a>
--   상품 리스트 : <a href="https://oddodd.io/ZARA/item-lst.html" target="_blank">https://oddodd.io/ZARA/item-lst.html</a>
--   상품 상세보기 : <a href="https://oddodd.io/ZARA/item.html" target="_blank">https://oddodd.io/ZARA/item.html</a>
--   장바구니 : <a href="https://oddodd.io/ZARA/cart.html" target="_blank">https://oddodd.io/ZARA/cart.html</a>
--   패션쇼 : <a href="https://oddodd.io/ZARA/fahionshow.html" target="_blank">https://oddodd.io/ZARA/fahionshow.html</a>
--   브랜드 역사 : <a href="https://oddodd.io/ZARA/history.html" target="_blank">https://oddodd.io/ZARA/history.html</a>
+-   <a href="https://z1xun.me/zara-mobile/index.html" target="_blank">메인</a>
+-   <a href="https://z1xun.me/zara-mobile/item-lst.html" target="_blank">상품리스트</a>
+-   <a href="https://z1xun.me/zara-mobile/item.html" target="_blank">상품상세보기</a>
+-   <a href="https://z1xun.me/zara-mobile/cart.html" target="_blank">장바구니</a>
+-   <a href="https://z1xun.me/zara-mobile/fahionshow.html" target="_blank">패션쇼</a>
+-   <a href="https://z1xun.me/zara-mobile/history.html" target="_blank">브랜드역사</a>
 
 ## 참여인원 & 역할
 
@@ -28,8 +28,7 @@
 -   library
 
     -   swiper.js
-    -   gsap
+    -   scroll trigger
 
 -   github commit
-    -   https://github.com/oodada/ZARA/commits/main
-    -   <img width="1114" alt="image" src="https://github.com/oodada/ZARA/assets/10627436/9643587b-a145-4c71-883c-0ee30e6449da">
+    -   <a href="https://github.com/z1xun/zara-mobile/commits/main?before=d42ccb0e770afe0e3f9b74d0f022abc49bb5c468+35&branch=main&qualified_name=refs%2Fheads%2Fmain" target="_blank">커밋 히스토리 보러가기</a></a>
